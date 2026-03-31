@@ -1,0 +1,11 @@
+# Ignore all Airflow logs
+**/logs/
+# Ignore standalone log files if they exist outside the folder
+*.log
+
+# Optional: Ignore other common Airflow artifacts
+**/airflow.db
+**/airflow.cfg
+**/webserver_config.py
+**/unittests.cfg
+.env
