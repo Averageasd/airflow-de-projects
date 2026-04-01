@@ -9,3 +9,5 @@
 **/webserver_config.py
 **/unittests.cfg
 .env
+
+**/__pycache__/
