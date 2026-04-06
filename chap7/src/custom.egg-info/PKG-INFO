@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: custom
+Version: 0.1
+Summary: Package containing custom Airflow components
+Requires-Python: >=3.12
+Requires-Dist: apache-airflow~=3.1
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
